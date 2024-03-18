@@ -13,11 +13,13 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
-Write your own steps
+Import tensorflow and preprocessing.
 
 ### STEP 2:
+Build a CNN model.
 
 ### STEP 3:
+Compile and fit the model and then predict.
 
 
 ## PROGRAM
